@@ -1,0 +1,1 @@
+You may desire your file or directory to be open to your peers and sometimes you may want them to be private. This project will clearly show you how to give permissions and access to your peers even changing the owner of the directory or file.
