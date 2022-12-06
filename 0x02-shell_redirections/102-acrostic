@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -1c | tr -d '\n' | sort
+cut -1c | tr -d | sort
